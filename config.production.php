@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://ceppromisephp.claudsonmartins.com',
+    'baseUrl' => 'https://cep-promise-php.claudsonmartins.com',
     'production' => true,
 
     // DocSearch credentials
